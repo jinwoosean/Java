@@ -21,7 +21,7 @@ class BinarySearch
 		{
 			return -1;
 		}
-
+						
 		int mid=(lb+ub)/2;
 
 		if (key<array[mid]) 
